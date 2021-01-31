@@ -22,8 +22,6 @@ public class caesar {
         }
         return result;
     }
-
-    // Driver code
     public static void main(String[] args)
     {
         String text = "ATTACK AT ONCE";
